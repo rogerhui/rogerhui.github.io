@@ -1,0 +1,23 @@
+body {
+	background: #000000;
+	text-align: center;
+	font-family: "Arial" ;
+}
+
+h1 {
+	font-family: "Arial Bold"
+}
+
+h2 {
+	background-color: #ab0000;
+	text-align: center;
+	color: white;
+} 
+a{
+	font-size: 30px;
+	border-style: outset;
+	color:  #ff6600;
+	border-color:orange;
+	border-width: 5px ;
+	background-color: black ;
+}
